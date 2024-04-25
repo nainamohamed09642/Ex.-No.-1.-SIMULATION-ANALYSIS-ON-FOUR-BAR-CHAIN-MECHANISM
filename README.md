@@ -1,9 +1,9 @@
 # Ex. No. 1 - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 
-### Name: S MOHAMED AHSAN
-### Register Number: 212223240089
-## DATE: 12.4.2024
+### Name: NAINA MOHAMED Z
+### Register Number: 212223230131
+
 
 ## AIM:
 
